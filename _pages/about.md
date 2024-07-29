@@ -11,7 +11,7 @@ Welcome to my personal website. I got my Doctoral degree at [USTC](http://en.ust
 
 PUBLICATIONS
 ======
-4\. **Y. Dong**, Y. Hao\*, D. Lu. A combined linear and sinusoidal empirical model for shale gas wellhead pressure and production rates considering fluctuations in gas-water flow. ***Petroleum Science and Technology***, 2024. [Link](https://doi.org/10.1080/10916466.2024.2378208)
+###### 4\. **Y. Dong**, Y. Hao\*, D. Lu. A combined linear and sinusoidal empirical model for shale gas wellhead pressure and production rates considering fluctuations in gas-water flow. ***Petroleum Science and Technology***, 2024. [Link](https://doi.org/10.1080/10916466.2024.2378208)
 
 3\. X. Wang, P. Li, K. Jia, S. Zhang, C. Li, B. Wu, **Y. Dong**, D. Lu\*. SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing. ***Computer Methods in Applied Mechanics and Engineering***, 2024. [Link](https://doi.org/10.1016/j.cma.2024.117054)
 
