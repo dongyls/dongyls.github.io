@@ -23,13 +23,13 @@ PUBLICATIONS
 
 TALKS & POSTERS
 ======
-4\. Talk, **InterPore2024** (The 16th annual meeting for the International Society for Porous Media), May 2024, Qingdao, China.
+4\. Talk, ***InterPore2024*** (The 16th annual meeting for the International Society for Porous Media), May 2024, Qingdao, China.
 
-3\. Talk, **USTC Graduate Seminar on Fluid Mechanics**, November 2022, Hefei, China.
+3\. Talk, ***USTC Graduate Seminar on Fluid Mechanics***, November 2022, Hefei, China.
 
-2\. Talk, **USTC 3rd Academic Forum for Graduate Engineering Students**, May 2022, Hefei, China.
+2\. Talk, ***USTC 3rd Academic Forum for Graduate Engineering Students***, May 2022, Hefei, China.
 
-1\. Poster, **USTC 2nd Academic Forum for Graduate Engineering Student**, May 2021, Hefei, China.
+1\. Poster, ***USTC 2nd Academic Forum for Graduate Engineering Student***, May 2021, Hefei, China.
 
 TEACHING
 ======
