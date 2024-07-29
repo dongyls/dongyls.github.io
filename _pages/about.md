@@ -23,7 +23,7 @@ PUBLICATIONS
 
 TALKS & POSTERS
 ======
-4\. Talk, ***InterPore2024*** (The 16th annual meeting for the International Society for Porous Media), May 2024, Qingdao, China.
+4\. Talk, ***InterPore2024*** *(The 16th annual meeting for the International Society for Porous Media)*, May 2024, Qingdao, China.
 
 3\. Talk, ***USTC Graduate Seminar on Fluid Mechanics***, November 2022, Hefei, China.
 
