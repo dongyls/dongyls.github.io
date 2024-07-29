@@ -11,15 +11,15 @@ Welcome to my personal website. I got my Doctoral degree at [USTC](http://en.ust
 
 Publications
 ======
-4\. **Y. Dong**, Y. Hao*, D. Lu. A combined linear and sinusoidal empirical model for shale gas wellhead pressure and production rates considering fluctuations in gas-water flow. ***Petroleum Science and Technology***, 2024. [Link](https://doi.org/10.1080/10916466.2024.2378208)
+4\. **Y. Dong**, Y. Hao, D. Lu. A combined linear and sinusoidal empirical model for shale gas wellhead pressure and production rates considering fluctuations in gas-water flow. ***Petroleum Science and Technology***, 2024. [Link](https://doi.org/10.1080/10916466.2024.2378208)
 
-3\. X. Wang, P. Li, K. Jia, S. Zhang, C. Li, B. Wu, **Y. Dong**, D. Lu*. SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing. ***Computer Methods in Applied Mechanics and Engineering***, 2024. [Link](https://doi.org/10.1016/j.cma.2024.117054)
+3\. X. Wang, P. Li, K. Jia, S. Zhang, C. Li, B. Wu, **Y. Dong**, D. Lu. SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing. ***Computer Methods in Applied Mechanics and Engineering***, 2024. [Link](https://doi.org/10.1016/j.cma.2024.117054)
 
-2\. **Y. Dong**, Y. Hao*, D. Lu. Identifying the controlling geological and engineering factors of shale gas production using deep learning models: a case study from Weiyuan, China. ***Petroleum Science and Technology***, 2023. [Link](https://doi.org/10.1080/10916466.2023.2281976)
+2\. **Y. Dong**, Y. Hao, D. Lu. Identifying the controlling geological and engineering factors of shale gas production using deep learning models: a case study from Weiyuan, China. ***Petroleum Science and Technology***, 2023. [Link](https://doi.org/10.1080/10916466.2023.2281976)
 
-1\. **Y. Dong**, Y. Hao*, D. Lu. Evaluation of the fracturing fluid flowback based on perforation clusters for horizontal shale gas wells using data-mining methods. ***Energy Reports***, 2023. [Link](https://doi.org/10.1016/j.egyr.2023.05.033)
+1\. **Y. Dong**, Y. Hao, D. Lu. Evaluation of the fracturing fluid flowback based on perforation clusters for horizontal shale gas wells using data-mining methods. ***Energy Reports***, 2023. [Link](https://doi.org/10.1016/j.egyr.2023.05.033)
 
-*Corresponding author
+Corresponding author
 
 Getting started
 ======
