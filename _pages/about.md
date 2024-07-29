@@ -13,23 +13,23 @@ PUBLICATIONS
 ======
 4\. **Y. Dong**, Y. Hao\*, D. Lu. A combined linear and sinusoidal empirical model for shale gas wellhead pressure and production rates considering fluctuations in gas-water flow. <ins>Petroleum Science and Technology</ins>, 2024. [Link](https://doi.org/10.1080/10916466.2024.2378208)
 
-3\. X. Wang, P. Li, K. Jia, S. Zhang, C. Li, B. Wu, **Y. Dong**, D. Lu\*. SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing. *Computer Methods in Applied Mechanics and Engineering*, 2024. [Link](https://doi.org/10.1016/j.cma.2024.117054)
+3\. X. Wang, P. Li, K. Jia, S. Zhang, C. Li, B. Wu, **Y. Dong**, D. Lu\*. SPI-MIONet for surrogate modeling in phase-field hydraulic fracturing. <ins>Computer Methods in Applied Mechanics and Engineering</ins>, 2024. [Link](https://doi.org/10.1016/j.cma.2024.117054)
 
-2\. **Y. Dong**, Y. Hao\*, D. Lu. Identifying the controlling geological and engineering factors of shale gas production using deep learning models: a case study from Weiyuan, China. *Petroleum Science and Technology*, 2023. [Link](https://doi.org/10.1080/10916466.2023.2281976)
+2\. **Y. Dong**, Y. Hao\*, D. Lu. Identifying the controlling geological and engineering factors of shale gas production using deep learning models: a case study from Weiyuan, China. <ins>Petroleum Science and Technology</ins>, 2023. [Link](https://doi.org/10.1080/10916466.2023.2281976)
 
-1\. **Y. Dong**, Y. Hao\*, D. Lu. Evaluation of the fracturing fluid flowback based on perforation clusters for horizontal shale gas wells using data-mining methods. *Energy Reports*, 2023. [Link](https://doi.org/10.1016/j.egyr.2023.05.033)
+1\. **Y. Dong**, Y. Hao\*, D. Lu. Evaluation of the fracturing fluid flowback based on perforation clusters for horizontal shale gas wells using data-mining methods. <ins>Energy Reports</ins>, 2023. [Link](https://doi.org/10.1016/j.egyr.2023.05.033)
 
 \*Corresponding author
 
 TALKS & POSTERS
 ======
-4\. Talk, *InterPore2024 (The 16th annual meeting for the International Society for Porous Media)*, May 2024, Qingdao, China.
+4\. Talk, <ins>InterPore2024</ins> (The 16th annual meeting for the International Society for Porous Media), May 2024, Qingdao, China.
 
-3\. Talk, *USTC Graduate Seminar on Fluid Mechanics*, November 2022, Hefei, China.
+3\. Talk, <ins>USTC Graduate Seminar on Fluid Mechanics</ins>, November 2022, Hefei, China.
 
-2\. Talk, *USTC 3rd Academic Forum for Graduate Engineering Students*, May 2022, Hefei, China.
+2\. Talk, <ins>USTC 3rd Academic Forum for Graduate Engineering Students</ins>, May 2022, Hefei, China.
 
-1\. Poster, *USTC 2nd Academic Forum for Graduate Engineering Student*, May 2021, Hefei, China.
+1\. Poster, <ins>USTC 2nd Academic Forum for Graduate Engineering Student</ins>, May 2021, Hefei, China.
 
 TEACHING
 ======
